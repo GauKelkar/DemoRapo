@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.test.LoginTest" duration-ms="38" started-at="2019-08-09T08:09:39Z" finished-at="2019-08-09T08:09:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="38" started-at="2019-08-09T08:09:39Z" finished-at="2019-08-09T08:09:39Z">
+      <class name="com.qa.test.LoginTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.qa.test.LoginTest@59a6e353]" name="test1" duration-ms="8" started-at="2019-08-09T08:09:39Z" finished-at="2019-08-09T08:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.qa.test.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.test.LoginTest -->
+</testng-results>
