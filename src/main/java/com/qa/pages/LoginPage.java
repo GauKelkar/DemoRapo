@@ -13,5 +13,10 @@ public class LoginPage {
 		
 		System.out.println("Inside Login Page Method");
 	}
+	
+public void loginSet() {
+		
+		System.out.println("Inside Login Set Method");
+	}
 
 }
