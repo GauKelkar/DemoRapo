@@ -24,4 +24,9 @@ public void loginget() {
 	System.out.println("Inside Login Get Method");
 }
 
+public void loginfetch() {
+	
+	System.out.println("Inside Login fetch Method");
+}
+
 }
