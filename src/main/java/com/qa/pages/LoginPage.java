@@ -19,4 +19,9 @@ public void loginSet() {
 		System.out.println("Inside Login Set Method");
 	}
 
+public void loginget() {
+	
+	System.out.println("Inside Login Get Method");
+}
+
 }
